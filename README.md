@@ -7,9 +7,9 @@
 - ⚡ Programador Java com 4 meses de estudo
 - 😄 Pronouns: ele/dele
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJoaoVFBanuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJoaoVFB=anuraghazra&theme=dark&show_icons=true)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="467" height="150" viewBox="0 0 467 150" fill="none" role="img" aria-labelledby="descId">
+<svg xmlns="[http://www.w3.org/2000/svg](https://github-readme-stats.vercel.app/apiJoaoVFB=anuraghazra&theme=dark&show_icons=true)" width="467" height="150" viewBox="0 0 467 150" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Anurag Hazra's GitHub Stats, Rank: A</title>
         <desc id="descId">Total Stars Earned: 78051, Total Commits in 2025 : 61, Total Issues: 180</desc>
         <style>
