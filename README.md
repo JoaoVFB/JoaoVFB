@@ -7,8 +7,7 @@
 - ⚡ Programador Java com 4 meses de estudo
 - 😄 Pronouns: ele/dele
 
-  
-<svg xmlns="http://www.w3.org/2000/svg" width="467" height="150" viewBox="0 0 467 150" fill="none" role="img" aria-labelledby="descId">
+  <svg xmlns="http://www.w3.org/2000/svg" width="467" height="150" viewBox="0 0 467 150" fill="none" role="img" aria-labelledby="descId">
         <title id="titleId">Anurag Hazra's GitHub Stats, Rank: A</title>
         <desc id="descId">Total Stars Earned: 78032, Total Commits in 2025 : 53, Total Issues: 180</desc>
         <style>
