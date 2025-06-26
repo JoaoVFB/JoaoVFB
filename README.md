@@ -7,4 +7,4 @@
 - ⚡ Programador Java com 4 meses de estudo
 - 😄 Pronouns: ele/dele
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVFB)](https://github.com/JoaoVFB/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVFB&show_icons=true)](https://github.com/JoaoVFB/github-readme-stats)
