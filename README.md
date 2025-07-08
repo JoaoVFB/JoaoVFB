@@ -4,8 +4,7 @@
 
 - 🔭 À procura do primeiro estágio
 - 🌱 Estudando Java para desenvolvimento web
-- ⚡ Programador Java com 4 meses de estudo
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVFB&show_icons=true&theme=holi">
