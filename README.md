@@ -2,8 +2,8 @@
 
 
 
-- 🔭 À procura do primeiro estágio
-- 🌱 Estudando Java para desenvolvimento web
+- 🔭 Desenvolvedor em busca de uma oportunidade de estágio
+- 🌱 Estudando Java Spring
 - 😄 Pronomes: ele/dele
 
 <div>
